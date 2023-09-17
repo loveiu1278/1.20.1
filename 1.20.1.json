@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7401,
             "MD5": "07b1d66b7286e07da96c44864cad8772",
-            "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/lowcodelanguage-1.20.1-47.1.46.jar"
+            "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/lowcodelanguage-1.20.1-47.1.46.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "7bd61f57ffc1c1a2bdcaf87e56210d1e",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/1.20.1-forge-47.1.46.json"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/1.20.1-forge-47.1.46.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 117594,
                 "MD5": "d823323485b51a3daa032c73bfeacc27",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/fmlcore-1.20.1-47.1.46.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/fmlcore-1.20.1-47.1.46.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16375,
                 "MD5": "d6d1cf7ed9a4f667d7824b04f1c7a3f3",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/javafmllanguage-1.20.1-47.1.46.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/javafmllanguage-1.20.1-47.1.46.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 5002,
                 "MD5": "1eb912c05a2c83e12b4b65450a767b50",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/mclanguage-1.20.1-47.1.46.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/mclanguage-1.20.1-47.1.46.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2672068,
                 "MD5": "5b1840a5757a77f3e4352b971a3dfb5f",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/forge-1.20.1-47.1.46-universal.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/forge-1.20.1-47.1.46-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4791107,
                 "MD5": "81c0f5598327abc64b03e5a467f81a0e",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/forge-1.20.1-47.1.46-client.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/forge-1.20.1-47.1.46-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/securejarhandler-2.1.10.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/asm-9.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/asm-9.5.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/asm-commons-9.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/asm-commons-9.5.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/asm-tree-9.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/asm-tree-9.5.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/asm-util-9.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/asm-util-9.5.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/asm-analysis-9.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/asm-analysis-9.5.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/eventbus-6.0.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/forgespi-7.0.1.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/coremods-5.0.1.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/coremods-5.0.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/modlauncher-10.0.9.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/unsafe-0.2.0.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/mergetool-1.1.5-api.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/core-3.6.4.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/toml-3.6.4.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/typetools-0.6.3.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/jline-reader-3.12.1.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/mixin-0.8.5.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/nashorn-core-15.3.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/nashorn-core-15.3.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/JarJarSelector-0.3.19.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/JarJarMetadata-0.3.19.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/bootstraplauncher-1.1.2.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/JarJarFileSystems-0.3.19.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 264250,
                 "MD5": "bfedc60c40a1f717a010c95000fee3eb",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/fmlloader-1.20.1-47.1.46.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/fmlloader-1.20.1-47.1.46.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170338,
                 "MD5": "d1eb7811c9411a950cfd5b0acfa0f4cf",
-                "url": "https://github.com/loveiu1278/1.20.1/raw/main/library/fmlearlydisplay-1.20.1-47.1.46.jar"
+                "url": "https://github.com/loveiu1278/1.20.1/raw/main/libraries/fmlearlydisplay-1.20.1-47.1.46.jar"
               }
             }
           ]
