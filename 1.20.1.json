@@ -8,10 +8,10 @@
   },
   "servers": [
     {
-      "id": "test-1.20.1",
+      "id": "Pixelmon 1.20.1",
       "name": "포켓몬 서버",
       "description": "버전 : 1.20.1",
-      "icon": null,
+      "icon": "https://github.com/loveiu1278/1.20.1/raw/main/image/servericon.png",
       "version": "1.0.0",
       "address": "pixelkorea.kro.kr",
       "minecraftVersion": "1.20.1",
