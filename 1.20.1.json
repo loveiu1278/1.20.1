@@ -441,6 +441,16 @@
             "url": "https://docs.google.com/uc?export=download&id=12ntTSuIlMjAqUDz-GEvBUmhdfNrpE88f&confirm=t",
             "MD5": "4679bec96eb34f3f61983bc312dfebe5"
           }
+        },
+        {
+          "id": "korea:chat:1.20.1@jar",
+          "name": "한글채팅",
+          "type": "file",
+          "artifact": {
+            "size": 209526,
+            "url": "https://github.com/loveiu1278/1.20.1/raw/main/mod/한글채팅 1.20.1.jar",
+            "MD5": "6d99af15a96820cbe31ac8a8150a3d43"
+          }
         }
       ]
     }
