@@ -445,7 +445,7 @@
         {
           "id": "korea:chat:1.20.1@jar",
           "name": "한글채팅",
-          "type": "file",
+          "type": "ForgeMod",
           "artifact": {
             "size": 209526,
             "url": "https://github.com/loveiu1278/1.20.1/raw/main/mod/한글채팅 1.20.1.jar",
